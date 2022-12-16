@@ -10,7 +10,13 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 `TOKEN`
 
+<<<<<<< HEAD
 - 1º Acesse https://discord.com/developers/applications;
+=======
+![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_1.png)
+
+`ANOTHER_API_KEY`
+>>>>>>> 96f999e47b2172a6e2cfe612118d6c60622db4be
 
 - 2º Crie e acesse sua aplicação;
 ![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_1.png)
