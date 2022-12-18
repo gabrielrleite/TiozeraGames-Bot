@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@distube/soundcloud": "^1.3.0",
+    "@distube/spotify": "^1.4.5",
+    "@distube/yt-dlp": "^1.1.3",
+    "discord.js": "^14.7.1",
+    "distube": "^4.0.4",
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1",
+    "quick.db": "^9.0.8",
+    "request": "^2.88.2"
+  },
+  "name": "tiozera_games_bot",
+  "description": "Discord Bot desenvolvido em NodeJS por Gabriel Rodrigues Leite, baseado na biblioteca \"discord.js\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrleite/TiozeraGames-Bot.git"
+  },
+  "keywords": [
+    "discordjs",
+    "nodejs",
+    "distube"
+  ],
+  "author": "Gabriel Rodrigues Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrleite/TiozeraGames-Bot/issues"
+  },
+  "homepage": "https://github.com/gabrielrleite/TiozeraGames-Bot#readme"
+}
