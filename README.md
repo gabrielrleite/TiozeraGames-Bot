@@ -21,14 +21,14 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 - 1º Acesse https://discord.com/developers/applications;
 
 - 2º Crie e acesse sua aplicação;
-![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_1.png)
+![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/TOKEN_1.png)
 
 - 3º Crie seu Bot;
-![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_2.png)
-![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_3.png)
+![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/TOKEN_2.png)
+![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/TOKEN_3.png)
 
 - 4º Gere seu TOKEN;
-![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/Token_4.png)
+![](https://github.com/gabrielrleite/TiozeraGames-Bot/blob/master/ignore/TOKEN/TOKEN_4.png)
 ## Autores
 
 - [@gabrielrleite](https://www.github.com/gabrielrleite)
