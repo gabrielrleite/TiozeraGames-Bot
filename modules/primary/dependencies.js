@@ -6,5 +6,6 @@ const express = require('express');
 require('dotenv').config();
 require("./mongo_login");
 const config = require("../../settings/config.json");
+require("../secundary/distube");
 
 module.exports = { Client, Discord, Message, EmbedBuilder, Collection, WebhookClient, fs, express };

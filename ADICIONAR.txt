@@ -1,0 +1,45 @@
+Slash OK | Prefix NO = ✔ | X
+Slash NO | Prefix OK = X | ✔
+Slash & Prefix OK = ✔ | ✔
+
+COMANDOS:
+    ADMIN:
+    - ban
+    - unban
+    - kick
+    - mute
+    - unmute
+    - uptime
+    - warn
+    - clear ✔
+
+    JOGOS:
+    - coinflip
+    - roll
+
+    GERAL:
+    - avatar
+    - tts
+    - anagrama
+
+    INFO:
+    - moeda (euro, dolar, peso, etc.)
+    - ping
+    - help/ajuda
+
+    MUSICA:
+    - play ✔ | ✔
+    - pause 
+    - resume
+    - skip ✔| X
+    - stop ✔ | X
+    - volume ✔ | X
+    - queue ✔ | X
+    - loop
+    - np
+
+MODULOS:
+- Distube (Musica) ✔
+- Anti-Phishing
+- Boas Vindas
+- Status

@@ -1,4 +1,4 @@
-const { Client } = require("./dependencies")
+const { Client } = require("discord.js")
 
 const client = new Client({
     messageCacheLifetime: 60,
